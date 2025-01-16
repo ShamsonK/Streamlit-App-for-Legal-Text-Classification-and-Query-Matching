@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+xgboost
+transformers
+sentence-transformers
+torch
+streamlit
+accelerate>=0.26.0
